@@ -4,16 +4,16 @@
 #### Tapşırıq
 [Bu link-dəki](https://www.w3schools.com/w3css/tryw3css_templates_apartment_rental.htm) template hazırlanmalıdır.
 
-##### Diqqət yetirilməli olan məqamlar
-- 1 - Layihə HTML, SCSS və pure JS ilə yazılmalıdır və responsive versiyası da birəbir olaraq eyni olmalıdır. (hər hansı 3rd party CSS və ya JS kitabxanası qoşulmuş layihələr 0 olaraq qiymətləndiriləcək)
+##### Diqqət yetirilməli olan məqamlar:
+- Layihə HTML, SCSS və pure JS ilə yazılmalıdır və responsive versiyası da birəbir olaraq eyni olmalıdır. (hər hansı 3rd party CSS və ya JS kitabxanası qoşulmuş layihələr 0 olaraq qiymətləndiriləcək)
 
-- 2 - Layihə aşağıda göstərilən hosting və ya cloud provider-lərdən birinə deploy olunmalıdır(provider-in verdiyi müvəqqəti domain name kifayətdir, xüsusi domain name almağa ehtiyyac yoxdur)
+- Layihə aşağıda göstərilən hosting və ya cloud provider-lərdən birinə deploy olunmalıdır(provider-in verdiyi müvəqqəti domain name kifayətdir, xüsusi domain name almağa ehtiyyac yoxdur)
 
-- 3 - Node.js vasitəsilə sadə bir backend server (burada express.js və lazımi digər kitabxanalardan istifadə edə bilərsiniz) hazırlanmalı və lazımi fayllar ordan client-a sunulmalıdır.
+- Node.js vasitəsilə sadə bir backend server (burada express.js və lazımi digər kitabxanalardan istifadə edə bilərsiniz) hazırlanmalı və lazımi fayllar ordan client-a sunulmalıdır.
 
-- 4 - Template-dəki form-lara(Search availability form, contact form, subscribe form) custom validation-lar əlavə olunmalıdır. Və formlar submit olunduqda ona uyğun mesajlar çıxmalıdır. Lazım olan validation-lar: `isEmpty`, `isValidEmail`, `isValidDate`. <br/> Examples below: <br/>
+- Template-dəki form-lara(Search availability form, contact form, subscribe form) custom validation-lar əlavə olunmalıdır. Və formlar submit olunduqda ona uyğun mesajlar çıxmalıdır. Lazım olan validation-lar: `isEmpty`, `isValidEmail`, `isValidDate`. <br/> Aşağıda nümunələri görə bilərsiniz: <br/>
 
-| Example 1 | Example 2 | Example 3 |
+| Nümunə 1 | Nümunə 2 | Nümunə 3 |
 | --------- | --------- | --------- |
 | <img src="https://user-images.githubusercontent.com/57169563/184575360-1c4262cc-fb61-4685-9c07-d5b0a9b5d116.png"> | <img width="190" alt="Screen Shot 2022-08-15 at 08 04 18" src="https://user-images.githubusercontent.com/57169563/184575366-53696b46-b8f2-4ba0-bf7f-6df350382bea.png"> | <img width="767" alt="Screen Shot 2022-08-15 at 08 05 01" src="https://user-images.githubusercontent.com/57169563/184575370-2548a141-e857-4af3-83bb-424de6cda1cd.png"> |
 
